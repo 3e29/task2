@@ -59,7 +59,7 @@ const Deals = () => {
 
             <div className="btn">
               <div className="circle">
-                <i className="fa-solid fa-gift"></i>
+                <i className="fa-solid fa-calendar"></i>
               </div>
               <p>Schedule a visit</p>
             </div>
